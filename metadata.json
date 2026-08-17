@@ -1,0 +1,6 @@
+{
+  "name": "PixelShrink - Next-Gen Image Compression & Optimization SaaS",
+  "description": "Ultra-fast image compression, format conversion, and developer API platform. Optimize WebP, AVIF, PNG, JPG, and JPEG XL with smart lossy algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
